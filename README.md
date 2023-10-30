@@ -1,2 +1,2 @@
-# ai_virtual_assitant
+# AI Virtual Assistant
 AI Assistant with Document Retrieval
