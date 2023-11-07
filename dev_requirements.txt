@@ -1,0 +1,9 @@
+#formater
+pre-commit
+black
+flake8
+isort
+
+
+#dev
+psycopg2
